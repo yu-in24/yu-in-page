@@ -14,7 +14,7 @@ http://www.templatemo.com/tm-507-victory
 
 body {
 	overflow-x: hidden;
-	background-color: #fff;
+	background-color: #cff3cf;
 }
 
 ul {
@@ -74,7 +74,7 @@ p {
     padding: 0;
     z-index: 10000;
     transition: all 0.2s ease-in-out;
-    background-color: #eaf0ff;  
+    background-color: #e9a6a6;  
     text-align: center;
 }
 
@@ -466,7 +466,7 @@ section.featured-food {
 
 
 section.our-blog {
-	background-color: #f2f6ff;
+	background-color: #e3f8e3;
 	padding: 100px 0px 70px 0px;
 }
 
